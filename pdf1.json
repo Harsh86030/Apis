@@ -1,0 +1,651 @@
+[
+    {
+        "id": "10",
+        "question": "10.Viroids  differ  from viruses  in having",
+        "options": [
+            "A.DNA molecules  without  protein  coat",
+            "B.RNA molecules  with protein  coat",
+            "C.RNA molecules  without  protein  coat",
+            "D.DNA molecules  with protein  coat"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "11",
+        "question": "11.Which  of the following  is wrongly  matched?",
+        "options": [
+            "A.T.O. Diener   Viroids  are found  to be a free DNA",
+            "B.W.M.  Stanley   Crystallised  proteins",
+            "C.M.W.  Beijerinck   Contagium  vivum  fluidum",
+            "D.D.J. Invanowsky   Microbes  smaller  than Bacteria  cause mosaic  disease  of tobacco"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "12",
+        "question": "12.Assertion:  Y easts  are unicellular  fungi  that are used  in bakery and brewery  industriesReason:  Potato  spindle  tuber  disease  is caused  by viroids",
+        "options": [
+            "A.If both Ass and Rs are true & Rs is correct  explanation  of Ass",
+            "B.If both Ass & Rs are true but Rs is not correct  explanation  of Ass",
+            "C.If Ass is true but Rs is false",
+            "D.Ass is false but Rs is true"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "16",
+        "question": "16.Read the given  statements  and select the correct option. Statement  1: Bryophytes  are Amphibians  of plant kingdom Statement  2: They  live in soil but depend  on water  for sexual reproduction",
+        "options": [
+            "A.Both statement  1 and 2 are correct",
+            "B.Statement  1 is correct  but statement  2 is incorrect",
+            "C.Statement  1 is incorrect  but statement  2 is correct",
+            "D.Both statements  1 and 2 are incorrect"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "17",
+        "question": "17.Which  of the following  organisms  does  not reproduce?",
+        "options": [
+            "A.Mule",
+            "B.Worker  bee",
+            "C.Infertile  human  female",
+            "D.All of these"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "18",
+        "question": "18.Read  the following  statements  and select  the correct  option Statement  1: reproduction  cannot be considered  as defining property  of living organismsStatement  2: there  are many  living organisms  which  do not reproduce,  e.g., mules,  worker  bees,  etc.",
+        "options": [
+            "A.Both statement  1 and 2 are correct",
+            "B.Statement  1 is correct  but statement  2 is incorrect  ",
+            "C.Statement  1 is incorrect  but statement  2 is correct  ",
+            "D.Both statements  1 and 2 are incorrect"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "2",
+        "question": "2.Male  and female  gametophytes  do not have  an independent free living existence  in: [Phase  II 2020]",
+        "options": [
+            "A.Bryophytes",
+            "B.Pteridophytes",
+            "C.Algae",
+            "D.Angiosperms"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "20",
+        "question": "20.Genus  represents",
+        "options": [
+            "A.An individual  plant  or animal",
+            "B.A collection  of plants  or animals",
+            "C.Group of closely  related  species  of plants  or animals",
+            "D.None  of these"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "21",
+        "question": "21.The Taxonomic  unit \u00e2\u20ac\u02dcPhylum  in the classification  of animals  is equivalent  to which  hierarchical  level in classification  of plants?",
+        "options": [
+            "A.Class",
+            "B.Order",
+            "C.Division",
+            "D.Family"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "22",
+        "question": "22.A  group  of plants  or animals  with similar  traits of any rank is: [1992,91]",
+        "options": [
+            "A.Species",
+            "B.Genus",
+            "C.Order",
+            "D.Taxon"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "23",
+        "question": "23.A  taxon  is: [1992]",
+        "options": [
+            "A.A group  of related  families",
+            "B.A group  of related  species",
+            "C.A type of living organisms",
+            "D.A Taxonomic group of any ranking"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "24",
+        "question": "24.Which of the following  organisms is scientifically  correctly named,  correctly  printed  according  to International  Rules  of Nomenclature  and correctly  described?  [2012  Mains]",
+        "options": [
+            "A.Musca  domestica   The common  house  lizard,  a reptile",
+            "B.Plasmodium  falciparum   A protozoan  pathogen  causing  the most  serious  type of malaria",
+            "C.Felis Tigris   the Indian  tiger, well protected  in Gir Forests",
+            "D.E.coli - Full name  Entamoeba  coli, a commonly  occuring bacterium  in human  intestine"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "25",
+        "question": "25.Which  one on of the following  aspects  is an exclusive characteristic  of living things?  [2011  Mains]",
+        "options": [
+            "A.Perception  of events  happening  in the environment  and their memory",
+            "B.Increase  in mass  by accumulation  of material  both on surface as well as internally",
+            "C.Isolated  metabolic  reactions  occur  in vitro",
+            "D.Increase  in mass  from inside  only"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "26",
+        "question": "26.Biodiversity  of a geographical  region  represents:  [2011  Mains]",
+        "options": [
+            "A.Genetic  diversity  present  in the dominant  species  of the region",
+            "B.Species  endemic  to the region",
+            "C.Endangered  species  found  in the region",
+            "D.The diversity  in the organisms  living in the region"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "27",
+        "question": "27.Which  one of the following  animals  is correctly  matched  with its particular  named  Taxonomic  category?  [2011  Pre]",
+        "options": [
+            "A.Housefly   Musca,  an order",
+            "B.Tiger   Tigris,  the species",
+            "C.Cuttlefish   Mollusca,  a class",
+            "D.Humans - Primata,  the family"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "28",
+        "question": "28.Select  the correctly  written  scientific  name  of Mango  which  was first described  by Carolus  Linnaeus  [2019]",
+        "options": [
+            "A.Mangifera  indica  Car. Linn.",
+            "B.Mangifera  indica  Linn.",
+            "C.Mangifera  indica",
+            "D.Mangifera  indica"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "29",
+        "question": "29.Pick up the wrong  statement:  [2015  Re]",
+        "options": [
+            "A.Protista  has photosynthetic  and heterotrophic  modes  of nutrition",
+            "B.Some  fungi  are edible",
+            "C.Nuclear  membrane  is present  in Monera",
+            "D.Cell wall is absent  in Animalia"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "3",
+        "question": "3.Double  fertilization  is exhibited  by: [2017]",
+        "options": [
+            "A.Algae",
+            "B.Fungi",
+            "C.Angiosperms",
+            "D.Gymnosperms"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "30",
+        "question": "30.Viruses  have  : [2014]",
+        "options": [
+            "A.Both DNA and RNA",
+            "B.DNA enclosed  in a protein  coat",
+            "C.Prokaryotic  nucleus",
+            "D.Single  chromosome"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "31",
+        "question": "31. Proteinaceous  infectious  particles  causing  diseases  are: [2010 Pre]",
+        "options": [
+            "A.Prions",
+            "B.Viroids",
+            "C.Viruses",
+            "D.Chlamydia"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "32",
+        "question": "32.Which  of the following  shows coiled  RNA strand  and capsomeres?  [2014]",
+        "options": [
+            "A.Retrovirus",
+            "B.Polio  virus",
+            "C.Tobacco Mosaic  Virus",
+            "D.Measles  virus"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "33",
+        "question": "33. Pigment  containing  membranous  extensions  in some cyanobacteria  are: [2013]",
+        "options": [
+            "A.Chromatophores",
+            "B.Heterocysts",
+            "C.Basal  bodies",
+            "D.Pneumatophores"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "34",
+        "question": "34. In the five kingdom  classification,  Chlamydomonas  and Chlorella  have  been  included  in: [2012  Mains]",
+        "options": [
+            "A.Protista",
+            "B.Algae",
+            "C.Plantae",
+            "D.Monera"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "35",
+        "question": "35.Bryophytes  are Amphibians  because:  [1991]",
+        "options": [
+            "A.They  require  a layer of water  for carrying  out sexual reproduction",
+            "B.They  occur  in damp  places",
+            "C.They  are mostly  aquatic",
+            "D.All the above"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "36",
+        "question": "36.Thalloid  body  of a slime  mould  is known  as: [2006]",
+        "options": [
+            "A.Mycelium",
+            "B.Protonema",
+            "C.Plasmodium",
+            "D.Fruiting  body"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "37",
+        "question": "37.Which is wrong about Mycoplasma? [2007 ]",
+        "options": [
+            "A.They  are called  PPLO",
+            "B.They  are pleomorphic",
+            "C.They  are sensitive  to penicillin",
+            "D.They  cause  diseases  in plants"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "38",
+        "question": "38.Basic  unit or smallest  taxon  of taxonomy/classification  is: [1990]",
+        "options": [
+            "A.Species",
+            "B.Kingdom",
+            "C.Family",
+            "D.Variety"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "39",
+        "question": "39.Linnaeus  evolved  a system  of nomenclature  called:  [1990]",
+        "options": [
+            "A.Mononomial",
+            "B.Vernacular",
+            "C.Binomial",
+            "D.Polynomial"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "4",
+        "question": "4.In angiosperms,  microsporogenesis  and megasporogenesis: [2015]",
+        "options": [
+            "A.Form  gametes  without  further  divisions",
+            "B.Involve  meiosis",
+            "C.Occur  in ovule",
+            "D.Occur  in anther"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "40",
+        "question": "40.Assertion:  Metabolism  refers  to the sum  of chemical  reactions that occur  within  living organismsReason:  Metabolic  reactions  occur  simultaneously  inside  living organisms",
+        "options": [
+            "A.If both Ass and Rs are true & Rs is correct  explanation  of Ass",
+            "B.If both Ass & Rs are true but Rs is not correct  explanation  of Ass",
+            "C.If Ass is true but Rs is false",
+            "D.Ass is false but Rs is true"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "41",
+        "question": "41.Assertion:  Consciousness  is a defining  property  of living organismsReason:  Human  being  is the only organism  that has self consciousness",
+        "options": [
+            "A.If both Ass and Rs are true & Rs is correct  explanation  of Ass",
+            "B.If both Ass & Rs are true but Rs is not correct  explanation  of Ass",
+            "C.If Ass is true but Rs is false",
+            "D.Ass is false but Rs is true"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "42",
+        "question": "42.Assertion: Living organisms are self replicating, evolving and  self regulating  unitReason:  Living  organisms  are capable  of resonding  to external stimuli",
+        "options": [
+            "A.If both Ass and Rs are true & Rs is correct  explanation  of Ass",
+            "B.If both Ass & Rs are true but Rs is not correct  explanation  of Ass",
+            "C.If Ass is true but Rs is false",
+            "D.Ass is false but Rs is true"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "43",
+        "question": "43.Assertion:  Keys  are analytical  in nature Reason:  keys are based  on couplet",
+        "options": [
+            "A.If both Ass and Rs are true & Rs is correct  explanation  of Ass",
+            "B.If both Ass & Rs are true but Rs is not correct  explanation  of Ass",
+            "C.If Ass is true but Rs is false",
+            "D.Ass is false but Rs is true"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "44",
+        "question": "44. Assertion:  Monographs  are useful  in providing  information  for identification  of names  of all genera  onlyReason:  Monographs  contain  information  of more  than one taxon",
+        "options": [
+            "A.If both As. and Rs. are true & Rs is correct  explanation  of As. ",
+            "B.If both As. & Rs. are true but Rs is not correct  explanation  of As ",
+            "C.If As. is true but Rs is false",
+            "D.Both As. And Reason are False"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "45",
+        "question": "45. Assertion:  cats and dogs have some similarities Reason: cats and dogs belong to the same Family Canidae",
+        "options": [
+            "A.If both Ass and Rs are true & Rs is correct  explanation  of Ass",
+            "B.If both Ass & Rs are true but Rs is not correct  explanation  of Ass",
+            "C.If Ass is true but Rs is false",
+            "D.Ass is false but Rs is true"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "46",
+        "question": "46.Binomial  nomenclature  consists  of two words [1994]",
+        "options": [
+            "A.Genus  and species",
+            "B.Order  and Family",
+            "C.Family  and genus",
+            "D.Species  and variety"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "47",
+        "question": "47.Assertion:  keys are Taxonomical  aids Reason:  Keys  are based  on couplet",
+        "options": [
+            "A.If both Ass and Rs are true & Rs is correct  explanation  of Ass",
+            "B.If both Ass & Rs are true but Rs is not correct  explanation  of Ass",
+            "C.If Ass is true but Rs is false",
+            "D.Ass is false but Rs is true"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "48",
+        "question": "48.Archaebacteria  differ  from Eubacteria  in: [2014]",
+        "options": [
+            "A.Mode  of reproduction",
+            "B.Cell wall structure",
+            "C.Mode  of nutrition",
+            "D.Cell shape"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "49",
+        "question": "49.The protein  coat around  a virus is called:  [2017 -Gujarat]",
+        "options": [
+            "A.Capsule",
+            "B.Core",
+            "C.Capsid",
+            "D.Trichome"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "5",
+        "question": "5.In angiosperms,  functional  megaspore  develops  into [2011]",
+        "options": [
+            "A.Embryo  sac",
+            "B.Ovule",
+            "C.Endosperm",
+            "D.Pollen  sac"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "50",
+        "question": "50.Select  the wrong  statement:  [2016 -II]",
+        "options": [
+            "A.Diatoms  are chief poducers  in the oceans",
+            "B.Diatoms  are microscopic  and float passively  in water",
+            "C.The walls  of diatoms  are easily  destructible",
+            "D.Diatomaceous  earth  is formed  by the cell wall of diatoms"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "51",
+        "question": "51.Methanogens  belong  to: [2016 -II]",
+        "options": [
+            "A.Dinoflagellates",
+            "B.Slime  moulds",
+            "C.Eubacteria",
+            "D.Archaebacteria"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "52",
+        "question": "52.Which  one of the following  is wrong  for fungi?  [2016 -II]",
+        "options": [
+            "A.They  are heterotrophic",
+            "B.They are both unicellular  and multicellular",
+            "C.They  are eukaryotic",
+            "D.All fungi  possess  a purely  cellulosic  cell wall"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "53",
+        "question": "53.Mycorrhiza  is an example  of: [2003]",
+        "options": [
+            "A.Symbiotic  relationship",
+            "B.Ectoparasitism",
+            "C.Endoparasitism",
+            "D.Decomposers"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "54",
+        "question": "54.Pinus  seed  cannot  germinate  and established  without  fungal association.  This is because:  [NEET -2019]",
+        "options": [
+            "A.Its embryo  is immature",
+            "B.It has obligate  association  with mycorrhizae",
+            "C.It has very hard seed  coat",
+            "D.Its seeds  contain  inhibitors  that prevent  germination"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "55",
+        "question": "55.Winged  pollen  grains  are present  in [NEET -2018]",
+        "options": [
+            "A.Mustard",
+            "B.Cycas",
+            "C.Mango",
+            "D.Pinus"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "56",
+        "question": "56.The common  character  of both angiosperms  and gymnosperms is:-",
+        "options": [
+            "A.Formation  of fruit",
+            "B.Presence  of archegonium",
+            "C.Formation  of Triploid  Endosperm",
+            "D.Formation  of seed"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "57",
+        "question": "57.Angiosperms  differ  from gymnosperms  as they show:",
+        "options": [
+            "A.Double  fertilization",
+            "B.Triple  fusion",
+            "C.Triploid  to polyploid  Endosperms",
+            "D.All of the above"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "59",
+        "question": "59.Bryophytes  include",
+        "options": [
+            "A.Liverworts  and ferns",
+            "B.Mosses  and ferns",
+            "C.Mosses  and liverworts",
+            "D.All of these"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "6",
+        "question": "6.Compared with the gametophytes of the bryophytes the  gametophytes  of vascular  plant  are [2011]",
+        "options": [
+            "A.Smaller  but have  larger  sex organs",
+            "B.Larger  but have  smaller  sex organs",
+            "C.Larger  and have  larger  sex organs",
+            "D.Smaller  and have  smaller  sex organs"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "61",
+        "question": "61.Who  crystallised  and isolated  viruses  for the first time?",
+        "options": [
+            "A.W.M. Stanley",
+            "B.K.M. Smith",
+            "C.D.J. Invanowsky",
+            "D.M.W. Beijerinck"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "63",
+        "question": "63. Statement  1: Viruses  are inert crystalline  structures  outside  a living cellStatement  2: Viruses  are cellular  organisms",
+        "options": [
+            "A.Both statement  1 and 2 are correct",
+            "B.Statement  1 is correct  but statement  2 is incorrect",
+            "C.Statement  1 is incorrect  but statement  2 is correct",
+            "D.Both statements  1 and 2 are incorrect"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "64",
+        "question": "64.Male  and female  gametophytes  are independent  and free living in: [2010]",
+        "options": [
+            "A.Mustard",
+            "B.Castor",
+            "C.Pinus",
+            "D.Sphagnum"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "65",
+        "question": "65.The plant  body  of moss  (Funaria)  is [1995]",
+        "options": [
+            "A.Completely  sporophyte",
+            "B.Completely  gametophyte",
+            "C.Predominantly  sporophyte  with gametophyte",
+            "D.Predominantly  gametophyte  with sporophyte"
+        ],
+        "answere": "D"
+    },
+    {
+        "id": "66",
+        "question": "66.Unique  features  of Bryophytes  is that they [1994]",
+        "options": [
+            "A.Produce  spores",
+            "B.Have  sporophyte  attached  to gametophyte",
+            "C.Lack  roots",
+            "D.Lack  vascular  tissues"
+        ],
+        "answere": "B"
+    },
+    {
+        "id": "68",
+        "question": "68.One of the major  components  of cell wall of most  fungi  is [2016]",
+        "options": [
+            "A.Chitin",
+            "B.Peptidoglycan",
+            "C.Cellulose",
+            "D.Hemicellulose"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "69",
+        "question": "69.Which  one of the following  statements  is wrong?  [2016]",
+        "options": [
+            "A.Cyanobacteria  are also called  blue green  algae",
+            "B.Golden  algae  are also called  desmids",
+            "C.Eubacteria  are also called  false Bacteria",
+            "D.Phycomycetes  are also called  algal fungi"
+        ],
+        "answere": "C"
+    },
+    {
+        "id": "7",
+        "question": "7.Assertion:  Deuteromycetes  are called  as imperfect  fungi Reason:  Only asexual  or vegetative  phases  of these  fungi  are known",
+        "options": [
+            "A.If both Ass and Rs are true & Rs is correct explanation of Ass",
+            "B.If both Ass & Rs are true but Rs is not correct explanation of Ass",
+            "C.If Ass is true but Rs is false",
+            "D.Ass is false but Rs is true"
+        ],
+        "answere": "A"
+    },
+    {
+        "id": "70",
+        "question": "70.Plasmodium,  the malarial  parasite,  belongs  to class  [1990]",
+        "options": [
+            "A.Sarcodina",
+            "B.Ciliata",
+            "C.Sporozoa",
+            "D.Dinophyceae"
+        ],
+        "answere": "C"
+    }
+]
